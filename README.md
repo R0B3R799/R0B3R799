@@ -1,6 +1,6 @@
 # Hi, I'm Rob 👋
 
-[Your job title] at **[Pharmica](https://pharmica.co.uk)**, the UK's top-rated online pharmacy.
+Software Engineer at **[Pharmica](https://pharmica.co.uk)**, the UK's top-rated online pharmacy.
 I work on [infrastructure, monitoring and keeping the site reliable], plus [testing new site features end to end].
 
 ## 🚀 Side projects
